@@ -32,4 +32,4 @@ FULLY ASSEMBLED:
 
 
 
-made/designed/coded by chinnyyy. 
+made/designed by chinnyyy. 
